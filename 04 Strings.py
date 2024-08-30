@@ -1,7 +1,7 @@
 #These are some of the things you can do with Strings
 #1 Len short for length.
 
-name = "bro Code"
+name = "zAck Farsley"
 number = "123"
 mixed = "abc123"
 #This will print 8 as spaces are also counted.
