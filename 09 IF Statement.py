@@ -1,6 +1,7 @@
 # IF statement = block of code that will execute if it's condition is TRUE.
 # elif statement = means else if. similar to if statement, but used after if statement.
 # else statement = used after if and elif.
+# == is the equality operator compares if 2 object values are the same.
 age = int(input("How old are you?: "))
 
 if age == 100:
