@@ -6,7 +6,7 @@
 
 
 try:
-    with open ("C:\\Users\\blazi\\Documents\\VSCODE\\File Detection\\test.txt") as file:
+    with open ("test.txt") as file:
         print(file.read())
 except FileNotFoundError: #Add exception handling incase not found or typo.
     print("That file was not found :(")
