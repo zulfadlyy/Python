@@ -5,6 +5,8 @@
 
 # class <class name>:
 class Car:
+
+    wheels = 4 #This is a class variable (acts as the default)
     
     #__init__ is a special method in Python classes that auto runs when new object(s) from the class are created.
     def __init__(self,make,model,year,color):
